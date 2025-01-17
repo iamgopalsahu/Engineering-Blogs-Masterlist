@@ -25,6 +25,7 @@ Lists all the engineering blogs of companies across the world.
 * Apple ML https://machinelearning.apple.com/
 * Amazon Science https://www.amazon.science/blog
 * Airbyte https://airbyte.com/blog
+* Algolia https://www.algolia.com/blog
 #### B companies
 * Blinkit https://blinkit.com/blog/category/all
 * BharatPe https://engineering.bharatpe.com/
@@ -32,6 +33,7 @@ Lists all the engineering blogs of companies across the world.
 * Bigbasket https://tech.bigbasket.com/
 * Browserstack https://www.browserstack.com/blog/tag/engineering/
 * Booking.com https://blog.booking.com/
+* Bumble https://medium.com/bumble-tech
 #### C companies
 * Cred https://engineering.cred.club/
 * Cars24 https://medium.com/cars24
@@ -40,6 +42,7 @@ Lists all the engineering blogs of companies across the world.
 * Cloudera https://blog.cloudera.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
 * Confluent https://www.confluent.io/blog/
+* CapitalOne https://www.capitalone.com/tech/
 #### D companies
 * Dream11 https://tech.dream11.in/blog
 * Delivery Hero https://tech.deliveryhero.com/
@@ -50,6 +53,7 @@ Lists all the engineering blogs of companies across the world.
 * Discord https://discord.com/category/engineering
 * Docker https://www.docker.com/blog/
 * Dropbox https://dropbox.tech/
+* Disney https://medium.com/disney-streaming
 #### E companies
 * Ebay https://innovation.ebayinc.com/tech/
 * Elastic https://www.elastic.co/blog
@@ -74,6 +78,10 @@ Lists all the engineering blogs of companies across the world.
 * Grafana https://grafana.com/blog/
 * Groupon https://medium.com/groupon-eng
 * Gusto https://engineering.gusto.com/
+* Getyourguide https://www.getyourguide.careers/category/data-science
+* Gojek https://www.gojek.io/blog/tag/data?p=1
+* Gurbhub https://bytes.grubhub.com/
+* Grammarly https://www.grammarly.com/blog/engineering/category/nlp-ml/
 #### H companies
 * Hasura https://hasura.io/blog
 * Hotstar https://blog.hotstar.com/
@@ -104,6 +112,9 @@ Lists all the engineering blogs of companies across the world.
 * Mixpanel https://engineering.mixpanel.com/
 * Microsoft https://devblogs.microsoft.com/engineering-at-microsoft/
 * Microsoft Azure https://azure.microsoft.com/en-us/blog/
+* Mercado Libre https://medium.com/mercadolibre-tech
+* Monzo https://medium.com/data-monzo
+* MongoDB https://www.mongodb.com/blog
 #### N companies
 * Nobroker https://medium.com/nobroker-engineering
 * Netflix https://netflixtechblog.com/
@@ -111,6 +122,8 @@ Lists all the engineering blogs of companies across the world.
 * Nextdoor https://engblog.nextdoor.com/
 * Notion https://www.notion.com/blog/topic/tech
 * Neon https://neon.tech/blog
+* Nubank https://building.nubank.com.br/data/
+* NYT https://open.nytimes.com/data/home
 #### O companies
 * Oyo https://tech.oyorooms.com/
 * Okta https://developer.okta.com/blog/
@@ -140,6 +153,7 @@ Lists all the engineering blogs of companies across the world.
 * Red Hat https://developers.redhat.com/blog
 * Riot Games https://technology.riotgames.com/
 * Rapid https://rapidapi.com/blog/
+* Rippibank https://medium.com/@rappibank
 #### S companies
 * Swiggy https://bytes.swiggy.com/
 * Shiprocket https://acme.shiprocket.com/
@@ -158,6 +172,7 @@ Lists all the engineering blogs of companies across the world.
 * Stichfix https://multithreaded.stitchfix.com/blog/
 * Spotify https://engineering.atspotify.com/
 * Splunk https://www.splunk.com/en_us/blog
+* Scribd https://tech.scribd.com/
 #### T companies
 * Tata 1mg https://medium.com/1mgofficial
 * Toptal https://www.toptal.com/developers/blog
@@ -180,6 +195,7 @@ Lists all the engineering blogs of companies across the world.
 #### V companies
 * Vedantu https://tech.vedantu.com/
 * Velotio https://www.velotio.com/engineering-blog
+* Vimeo https://medium.com/vimeo-engineering-blog
 #### W companies
 * Wix https://www.wix.engineering/blog
 * Wayfair https://www.aboutwayfair.com/careers/tech-blog
