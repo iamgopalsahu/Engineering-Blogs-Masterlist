@@ -26,6 +26,7 @@ Lists all the engineering blogs of companies across the world.
 * Amazon Science https://www.amazon.science/blog
 * Airbyte https://airbyte.com/blog
 * Algolia https://www.algolia.com/blog
+* Anthropic Research https://www.anthropic.com/research
 #### B companies
 * Blinkit https://blinkit.com/blog/category/all
 * BharatPe https://engineering.bharatpe.com/
@@ -34,6 +35,7 @@ Lists all the engineering blogs of companies across the world.
 * Browserstack https://www.browserstack.com/blog/tag/engineering/
 * Booking.com https://blog.booking.com/
 * Bumble https://medium.com/bumble-tech
+* ByteDance https://se-research.bytedance.com/
 #### C companies
 * Cred https://engineering.cred.club/
 * Cars24 https://medium.com/cars24
@@ -99,6 +101,7 @@ Lists all the engineering blogs of companies across the world.
 * JP Morgan Chase https://www.jpmorgan.com/technology/technology-blog
 #### K companies
 * Khan Academy https://blog.khanacademy.org/engineering/
+* Klarna https://engineering.klarna.com/
 #### L companies
 * Licious https://tech.licious.com/
 * Lenskart https://blog.lenskart.com/lenskart-product/home
@@ -116,6 +119,7 @@ Lists all the engineering blogs of companies across the world.
 * Mercado Libre https://medium.com/mercadolibre-tech
 * Monzo https://medium.com/data-monzo
 * MongoDB https://www.mongodb.com/blog
+* Miro https://medium.com/miro-engineering
 #### N companies
 * Nobroker https://medium.com/nobroker-engineering
 * Netflix https://netflixtechblog.com/
