@@ -96,6 +96,7 @@ Lists all the engineering blogs of companies across the world.
 * Instagram https://instagram-engineering.com/
 #### J companies
 * Jane Street https://blog.janestreet.com/
+* JP Morgan Chase https://www.jpmorgan.com/technology/technology-blog
 #### K companies
 * Khan Academy https://blog.khanacademy.org/engineering/
 #### L companies
@@ -185,6 +186,7 @@ Lists all the engineering blogs of companies across the world.
 * Twillio https://www.twilio.com/en-us/blog
 * Twitch https://blog.twitch.tv/en/tags/engineering/
 * Typo https://typoapp.io/blog/
+* Target https://tech.target.com/
 #### U companies
 * Uniphore https://www.uniphore.com/blog/
 * upstox https://medium.com/upstox-engineering
