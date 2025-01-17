@@ -56,6 +56,7 @@ Lists all the engineering blogs of companies across the world.
 * Docker https://www.docker.com/blog/
 * Dropbox https://dropbox.tech/
 * Disney https://medium.com/disney-streaming
+* Dulingo https://blog.duolingo.com/hub/engineering/
 #### E companies
 * Ebay https://innovation.ebayinc.com/tech/
 * Elastic https://www.elastic.co/blog
