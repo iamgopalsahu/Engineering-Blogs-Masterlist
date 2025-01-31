@@ -212,8 +212,8 @@ Lists all the engineering blogs of companies across the world.
 #### X companies
 
 #### Y companies
-* Yubi https://www.go-yubi.com/blog/yubi-technology/
-* Yelp https://engineeringblog.yelp.com/
+* Yubi https://www.go-yubi.com/blog/yubi-technology/ - [Dec-2024]
+* Yelp https://engineeringblog.yelp.com/ - [Jan-2025]
 #### Z companies
 * Zomato https://blog.zomato.com/category/technology - [Nov-2024]
 * Zepto https://blog.zeptonow.com/ - [Jan-2025]
