@@ -215,12 +215,12 @@ Lists all the engineering blogs of companies across the world.
 * Yubi https://www.go-yubi.com/blog/yubi-technology/
 * Yelp https://engineeringblog.yelp.com/
 #### Z companies
-* Zomato https://blog.zomato.com/category/technology
-* Zepto https://blog.zeptonow.com/
-* Zeta https://engineering.zeta.tech/
-* Zerodha https://zerodha.tech/
-* Zendesk https://zendesk.engineering/
-* Zillow https://www.zillow.com/tech/
-* Zoom https://developers.zoom.us/blog/
-* Zynga https://www.zynga.com/blogs/engineering
-* Zalando https://engineering.zalando.com/
+* Zomato https://blog.zomato.com/category/technology - [Nov-2024]
+* Zepto https://blog.zeptonow.com/ - [Jan-2025]
+* Zeta https://engineering.zeta.tech/  - [Jan-2023]
+* Zerodha https://zerodha.tech/ - [Mar-2024]
+* Zendesk https://zendesk.engineering/ - [Dec-2024]
+* Zillow https://www.zillow.com/tech/ - [Dec-2024]
+* Zoom https://developers.zoom.us/blog/ - [Nov-2024]
+* Zynga https://www.zynga.com/blogs/engineering - [Feb-2022]
+* Zalando https://engineering.zalando.com/ - [Jan-2025]
