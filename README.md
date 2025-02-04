@@ -31,6 +31,7 @@ Lists all the engineering blogs of companies across the world.
 * AWS https://aws.amazon.com/blogs
 * Apple Security https://security.apple.com/blog/
 * AT&T Israel https://medium.com/att-israel
+* Adobe https://blog.developer.adobe.com/
 #### B companies
 * Blinkit https://blinkit.com/blog/category/all
 * BharatPe https://engineering.bharatpe.com/
@@ -49,6 +50,8 @@ Lists all the engineering blogs of companies across the world.
 * CockroachDB https://www.cockroachlabs.com/blog/
 * Confluent https://www.confluent.io/blog/
 * CapitalOne https://www.capitalone.com/tech/
+* Coinbase https://www.coinbase.com/blog/landing/engineering
+* Cult Fit https://blog.cult.fit/category/engineering
 #### D companies
 * Dream11 https://tech.dream11.in/blog
 * Delivery Hero https://tech.deliveryhero.com/
@@ -80,7 +83,7 @@ Lists all the engineering blogs of companies across the world.
 * Glance https://engg.glance.com/
 * Google Research https://research.google/blog/
 * GitLab https://about.gitlab.com/blog/categories/engineering/
-* GitHub https://githubengineering.com/
+* GitHub https://githubengineering.com/, https://github.blog/engineering/
 * Grab https://engineering.grab.com/
 * Grafana https://grafana.com/blog/
 * Groupon https://medium.com/groupon-eng
@@ -95,6 +98,7 @@ Lists all the engineering blogs of companies across the world.
 * Hubspot https://product.hubspot.com/blog/topic/engineering
 * Heroku https://blog.heroku.com/engineering
 * Hulu https://medium.com/hulu-tech-blog
+* Human https://www.humansecurity.com/tech-engineering-blog/
 #### I companies
 * Inmobi https://technology.inmobi.com/
 * Indeed https://engineering.indeedblog.com/blog/
@@ -125,6 +129,8 @@ Lists all the engineering blogs of companies across the world.
 * Monzo https://medium.com/data-monzo
 * MongoDB https://www.mongodb.com/blog
 * Miro https://medium.com/miro-engineering
+* Myntra https://medium.com/myntra-engineering
+* MakeMyTrip https://tech.makemytrip.com/
 #### N companies
 * Nobroker https://medium.com/nobroker-engineering
 * Netflix https://netflixtechblog.com/
@@ -134,6 +140,7 @@ Lists all the engineering blogs of companies across the world.
 * Neon https://neon.tech/blog
 * Nubank https://building.nubank.com.br/data/
 * NYT https://open.nytimes.com/data/home
+* NetApp https://community.netapp.com/t5/Tech-ONTAP-Blogs/bg-p/techontap_blog
 #### O companies
 * Oyo https://tech.oyorooms.com/
 * Okta https://developer.okta.com/blog/
@@ -160,7 +167,7 @@ Lists all the engineering blogs of companies across the world.
 * Rebel Foods https://www.rebelfoods.com/blogs/topics/technology
 * Razorpay https://engineering.razorpay.com/
 * Reddit https://www.reddit.com/r/RedditEng/
-* Red Hat https://developers.redhat.com/blog
+* Red Hat https://developers.redhat.com/blog, https://www.redhat.com/en/blog
 * Riot Games https://technology.riotgames.com/
 * Rapid https://rapidapi.com/blog/
 * Rippibank https://medium.com/@rappibank
@@ -218,6 +225,7 @@ Lists all the engineering blogs of companies across the world.
 #### Y companies
 * Yubi https://www.go-yubi.com/blog/yubi-technology/ - [Dec-2024]
 * Yelp https://engineeringblog.yelp.com/ - [Jan-2025]
+* Yahoo https://yahooeng.tumblr.com/
 #### Z companies
 * Zomato https://blog.zomato.com/category/technology - [Nov-2024]
 * Zepto https://blog.zeptonow.com/ - [Jan-2025]
