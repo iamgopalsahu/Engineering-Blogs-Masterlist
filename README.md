@@ -27,6 +27,10 @@ Lists all the engineering blogs of companies across the world.
 * Airbyte https://airbyte.com/blog
 * Algolia https://www.algolia.com/blog
 * Anthropic Research https://www.anthropic.com/research
+* Amazon India https://www.aboutamazon.in/amazon-india-tech-blog
+* AWS https://aws.amazon.com/blogs
+* Apple Security https://security.apple.com/blog/
+* AT&T Israel https://medium.com/att-israel
 #### B companies
 * Blinkit https://blinkit.com/blog/category/all
 * BharatPe https://engineering.bharatpe.com/
@@ -106,7 +110,7 @@ Lists all the engineering blogs of companies across the world.
 #### L companies
 * Licious https://tech.licious.com/
 * Lenskart https://blog.lenskart.com/lenskart-product/home
-* LinkedIn https://www.linkedin.com/blog/engineering
+* LinkedIn https://www.linkedin.com/blog/engineering, https://engineering.linkedin.com/
 * LY Corporation https://engineering.linecorp.com/en/blog
 * Lyft https://eng.lyft.com/
 #### M companies
@@ -207,7 +211,7 @@ Lists all the engineering blogs of companies across the world.
 #### W companies
 * Wix https://www.wix.engineering/blog
 * Wayfair https://www.aboutwayfair.com/careers/tech-blog
-* Walmart https://medium.com/walmartglobaltech
+* Walmart https://medium.com/walmartglobaltech, https://tech.walmart.com/content/walmart-global-tech/en_us/blog.html
 * Weaviate https://weaviate.io/blog
 #### X companies
 
